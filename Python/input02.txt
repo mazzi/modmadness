@@ -1,0 +1,7 @@
+module alpha reverse
+module beta delay
+module gamma echo
+connect alpha beta
+connect beta gamma
+process hello world
+

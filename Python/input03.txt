@@ -1,0 +1,5 @@
+module alpha reverse
+module beta delay
+connect alpha beta
+process
+
